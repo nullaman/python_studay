@@ -13,7 +13,7 @@ from Signal import my_signal
 
 
 class MainWindow(QMainWindow):
-    db_connect = ' '
+    db_connect = ' cesces'
 
     def __init__(self):
         super(MainWindow, self).__init__()
